@@ -38,6 +38,6 @@ My academic and research experience includes statistical modelling, time-series 
 
 ### 📫 Connect with me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/laura-ribeiro-vicente/
+- Email: lauravicente111@gmail.com
 
